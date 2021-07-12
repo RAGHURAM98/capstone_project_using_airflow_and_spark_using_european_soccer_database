@@ -1,0 +1,10 @@
+
+
+
+
+{
+ "root_dir":"/",
+ "s3_access_key":"",
+ "s3_secret_acess_key":"",
+ "bucket_name":"aws-gis-soccer-datalake"
+}
